@@ -1,1 +1,7 @@
 .claude/
+
+# Basura de Windows
+*Zone.Identifier
+
+# Binarios de Rust
+target/
