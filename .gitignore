@@ -5,3 +5,9 @@
 
 # Binarios de Rust
 target/
+
+# Binarios de Rust (no se suben al repo)
+target/
+
+# Basura de Windows
+*Zone.Identifier
